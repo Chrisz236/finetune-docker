@@ -37,7 +37,6 @@ You should see
 $ docker images
 REPOSITORY                          TAG       IMAGE ID       CREATED        SIZE
 fine-tuning                         latest    xxxxxxxxxxxx   1 minute ago   19.9GB
-hello-world                         latest    9c7a54a9a43c   4 months ago   13.3kB
 ```
 
 Run your image
